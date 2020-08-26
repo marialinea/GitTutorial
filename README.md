@@ -44,6 +44,12 @@ git config --global helper.store insertyourpasswordhere
 
 Now you have successfully installed and configured git on your computer.
 
+The easiest way to create a repository is to this on the github webpage, and then clone the repo down to your own computer with
+
+```console
+git clone insertURLcopiedfromGitHub
+```
+
 Below follows some useful git commands
 
 ## Branching
